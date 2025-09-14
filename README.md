@@ -1,3 +1,2 @@
 # LongIPTV
-idk =))) (chỉ có các kênh tin tức quốc tế) 
-(Link stream lấy từ Msky)
+Tạo cho vui, ko vui thì nghỉ =)))
