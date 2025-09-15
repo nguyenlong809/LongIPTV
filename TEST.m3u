@@ -107,6 +107,8 @@ https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 https://hls.mskycdn.online/tv/arirang/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",BBC World News
 https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
+https://hls.mskycdn.online/tv/bloomberg/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi",Channel News Asia
 https://hls.mskycdn.online/tv/cna/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/2560px-CNBC_2023.svg.png",CNBC Asia
