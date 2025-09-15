@@ -101,6 +101,8 @@ https://hls.mskycdn.online/tv/antvhd/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/GQO7UNu.png",QPVN HD
 https://hls.mskycdn.online/tv/qpvnhd/index.m3u8
 
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Tin tức quốc tế" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC Australia
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",Arirang TV
 https://hls.mskycdn.online/tv/arirang/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",BBC World News
