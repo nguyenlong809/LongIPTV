@@ -97,29 +97,29 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/ANTV_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20240921100028&path-prefix=vi",ANTV HD
-https://hls.mskycdn.online/tv/antvhd/index.m3u8
+https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/GQO7UNu.png",QPVN HD
-https://hls.mskycdn.online/tv/qpvnhd/index.m3u8
+https://qpvn.vn/live/qpvn/video1_stream.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Tin tức quốc tế" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC Australia
-https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",Arirang TV
-https://hls.mskycdn.online/tv/arirang/index.m3u8
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",BBC World News
-https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg TV
-https://hls.mskycdn.online/tv/bloomberg/index.m3u8
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi",Channel News Asia
-https://hls.mskycdn.online/tv/cna/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/2560px-CNBC_2023.svg.png",CNBC Asia
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN International
-https://hls.mskycdn.online/tv/cnn/index.m3u8
+
 #EXTINF:-1 tvg-id="dw" group-title="Tin tức quốc tế" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
-https://hls.mskycdn.online/tv/dw/index.m3u8
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/2048px-FRANCE_24_logo.svg.png",France 24 English
-https://hls.mskycdn.online/tv/france24eng/index.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",NHK World-Japan
-https://hls.mskycdn.online/tv/nhkworld/index.m3u8
+https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/2560px-Logo_TV5_Monde_-_2021.svg.png",TV5Monde Asie
-https://hls.mskycdn.online/tv/tv5monde/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
