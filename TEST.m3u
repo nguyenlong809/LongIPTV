@@ -107,7 +107,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/asia.m3u8
+https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/2560px-CNBC_2023.svg.png",CNBC Asia
@@ -121,4 +121,4 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",NHK World-Japan
 https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/2560px-Logo_TV5_Monde_-_2021.svg.png",TV5Monde Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+http://125hvt.ddns.net:21585/tv5/index.m3u8
