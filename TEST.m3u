@@ -113,7 +113,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="cnbc" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/2560px-CNBC_2023.svg.png",CNBC Asia
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN International
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Tin tức quốc tế" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/2048px-FRANCE_24_logo.svg.png",France 24 English
