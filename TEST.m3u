@@ -107,7 +107,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="arirang" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",Arirang TV
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1024px-BBC_News_2022_%28Alt%29.svg.png",BBC News (World)
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg TV
 https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi",Channel News Asia
