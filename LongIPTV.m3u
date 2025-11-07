@@ -106,7 +106,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 UHD
-https://cecex9g5cpliv.vcdn.cloud/events/HN2/chunklist_w1193721687.m3u8
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=421&time=${start}&offset=${duration}",THVL1 HD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=423&time=${start}&offset=${duration}",THVL2 HD
@@ -238,3 +238,4 @@ https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/1024px-Logo_TV5Monde_2025.svg.png",TV5Monde Asie
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
