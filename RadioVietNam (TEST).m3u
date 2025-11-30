@@ -31,13 +31,13 @@ https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="VOV" radio=true tvg-logo="https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png.webp", VOV Giao thông Duyên Hải
 https://stream.vovmedia.vn/gtduyenhai
 
-#EXTINF:-1 tvg-id="voh610" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png?w=128&h=75",HTV Radio AM 610Khz
+#EXTINF:-1 tvg-id="voh610" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png?w=128&h=75",HTV Radio AM 610KHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="voh999" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png?w=128&h=75",HTV Radio FM 99.9Mhz
+#EXTINF:-1 tvg-id="voh999" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png?w=128&h=75",HTV Radio FM 99.9MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="voh956" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png?w=128&h=75",HTV Radio FM 95.6Mhz
+#EXTINF:-1 tvg-id="voh956" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png?w=128&h=75",HTV Radio FM 95.6MHz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="voh877" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png?w=128&h=75",HTV Radio FM 87.7Mhz
+#EXTINF:-1 tvg-id="voh877" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png?w=128&h=75",HTV Radio FM 87.7MHz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="voh925" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png?w=128&h=75",HTV Radio FM 92.5Mhz
+#EXTINF:-1 tvg-id="voh925" group-title="HTV" radio=true tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png?w=128&h=75",HTV Radio FM 92.5MHz
 https://strm.voh.com.vn/radio/channel6/playlist.m3u8
